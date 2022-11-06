@@ -1,0 +1,8 @@
+[
+  {
+    "name": "com.jayway.jsonpath.internal.function.text.Length",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  }
+]
